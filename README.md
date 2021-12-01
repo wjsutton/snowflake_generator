@@ -18,3 +18,9 @@ Quick Link
 [LinkedIn]:https://www.linkedin.com/in/will-sutton-14711627/
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
+
+:a: About
+
+Snowflakes have two features:
+- each snowflake is unique
+- each snowflake has 6-fold symmetry, meaning a rotation of 60 degrees is the same shape as before 
