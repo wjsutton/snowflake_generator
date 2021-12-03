@@ -31,9 +31,15 @@ For our snowflakes they have two features:
 - each snowflake is unique
 - each snowflake has 6-fold symmetry, meaning a rotation of 60 degrees is the same shape as before 
 
-<img  align="left" src='https://github.com/wjsutton/snowflake_generator/blob/master/images/Method%201%20-%20rotate.png?raw=true'>
-<img  align="left" src='https://github.com/wjsutton/snowflake_generator/blob/master/images/Method%202%20-%20defintions.png?raw=true'>
-<img  align="left" src='https://github.com/wjsutton/snowflake_generator/blob/master/images/Method%203%20-%20Tableau.png?raw=true'>
+<a href='https://github.com/wjsutton/snowflake_generator'>
+  <img src = "images/Method%201%20-%20rotate.png" width="30%">
+</a>
+<a href='https://github.com/wjsutton/snowflake_generator'>
+  <img src = "images/Method%202%20-%20defintions.png" width="30%">
+</a>
+<a href='https://github.com/wjsutton/snowflake_generator'>
+  <img src = "images/Method%203%20-%20Tableau.png" width="30%">
+</a>
 
 1. Knowing a snowflake has 6-fold symmetry we can craft 1 "arm" of the snowflake then rotate the arm 5 times to make the snowflakes symmetrical.
 2. To make our snowflakes more interesting each snowflake "arm" has a varying number of branches, of differing length and angle
